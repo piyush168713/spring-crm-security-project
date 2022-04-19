@@ -8,7 +8,7 @@
 <img src="img/4.png">
 <br>
 
- <code><em><h2>Features</h2></em></code>
+<h2><code><em>Features</em></code></h2>
 
 ### CRUD
 ### Logging Support

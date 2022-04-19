@@ -7,7 +7,8 @@
 <img src="img/3.png">
 <img src="img/4.png">
 <br>
-## <code><em>Features</em></code>
+
+ <code><em><h2>Features</h2></em></code>
 
 ### CRUD
 ### Logging Support
